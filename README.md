@@ -2,6 +2,18 @@
 
 This repository contains a curated object detection dataset focused on identifying common road obstacles found in Indian road environments.
 
+Team:
+
+Vasu Sharma 23UCS734
+
+Shashvat Singh 23UCS745
+
+Srikrishna Anirudh Choragudi 23UCS718
+
+Shyamsundar Paramasivam 23UCS712
+
+Shulin Agarwal 23UCS711
+
 ## Classes
 
 The dataset contains annotations for the following classes:
